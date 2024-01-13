@@ -1,2 +1,2 @@
-# read me file
+# demo
 some script
