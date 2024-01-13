@@ -1,2 +1,2 @@
 # demo
-some script
+some script!
